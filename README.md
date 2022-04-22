@@ -1,5 +1,5 @@
 
-## Working with client companies (in very diverse business domains) on their software system strategies, design and implementation. Always striving for successful solutions to complex problems.
+## Working with client companies (in very diverse business domains) on their software system strategies, design and implementation.
 
 Diversely-experienced. Well-versed in current technologies and best practices. Have had to be a quick study, good communicator & curious learner and have a good sense of humor.
 
