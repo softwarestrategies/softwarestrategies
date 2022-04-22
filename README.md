@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @softwarestrategies
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Working with client companies (in very diverse business domains) on their software system strategies, design and implementation. Always striving for successful solutions to complex problems.
 
-<!---
-softwarestrategies/softwarestrategies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Diversely-experienced. Well-versed in current technologies and best practices. Have had to be a quick study, good communicator & curious learner and have a good sense of humor.
+
+Specializing in:
+
+ • Coding in Java, (some) Kotlin & (some) Python, with Spring-related frameworks and Hibernate
+ • Design and Implementation of Distributed Systems using Microservices and Messaging-based Architectures
+ • Designing and Building Out of RESTful APIs
+ • Database Design & Access and Data Engineering
+ • Cloud (AWS) and Container (docker)-based development & deployment
