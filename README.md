@@ -5,7 +5,11 @@ Diversely-experienced. Well-versed in current technologies and best practices. H
 Specializing in:
 
  • Coding in Java, (some) Kotlin & (some) Python, with Spring-related frameworks and Hibernate
+ 
  • Design and Implementation of Distributed Systems using Microservices and Messaging-based Architectures
+ 
  • Designing and Building Out of RESTful APIs
+ 
  • Database Design & Access and Data Engineering
+ 
  • Cloud (AWS) and Container (docker)-based development & deployment
