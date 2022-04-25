@@ -1,7 +1,5 @@
 
-## Software Development Consultant with 20+ years of experience driving successful solutions to complex software problems.
-
-System Design & Architecture • Data Modeling & Engineering • API Design • Coding • Team Leadership
+## System Design & Architecture • Data Modeling & Engineering • API Design • Coding • Team Leadership
 
 Working with client companies (in very diverse business domains) on their software system strategies, design and implementation.
 
