@@ -1,5 +1,5 @@
 
-## System Design & Architecture • Data Modeling & Engineering • API Design • Coding • Team Leadership
+## System Design • Data Modeling & Engineering • Team Leadership • Coding
 
 Working with client companies (in very diverse business domains) on their software system strategies, design and implementation.
 
