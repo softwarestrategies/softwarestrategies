@@ -1,5 +1,6 @@
+## Consulting Software Engineer | Specialist in Java & Spring Boot-backed System Design and Implementation
 
-## System Design • Data Modeling & Engineering • Team Leadership • Coding
+System Design • Data Modeling & Engineering • Team Leadership • Coding
 
 Working with client companies (in very diverse business domains) on their software system strategies, design and implementation.
 
