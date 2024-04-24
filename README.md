@@ -4,5 +4,4 @@ Experienced at driving successful solutions to complex software problems in dive
 
 System Design • Data Modeling & Engineering • Team Leadership • Coding
 
-
-## Please excuse the ramshackle state of my Github page.  It's next on my todo list.
+NOTE:  Please excuse the ramshackle state of my Github page.  It's next on my todo list.  Kinda let it go.
